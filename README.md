@@ -2,62 +2,49 @@
 
 ![Profile Banner](https://github.com/sumedhwani/sumedhwani/blob/1cba0bace7a0c69f9c885bb7a0c4d5c128aa8c97/DALL%C2%B7E%202024-10-18%2013.56.09%20-%20A%20professional%20banner%20for%20a%20GitHub%20profile%20themed%20around%20data%20analytics%20and%20artificial%20intelligence.%20The%20banner%20should%20have%20a%20sleek%20and%20modern%20design%20.webp)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Sumedh!;Data+Analyst+and+AI+Engineer;Python+%7C+TensorFlow+%7C+Keras+%7C+NLP;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
 **Data Analyst | AI Engineer | Innovator**
 
-I'm a passionate Data Analyst and AI Engineer with over 3 years of experience in data analytics, machine learning, and artificial intelligence. Skilled in Python, SQL, cloud technologies, and machine learning model deployment, I strive to deliver impactful data-driven business solutions. 
-
 ## 🔧 Skills
 
-- **Programming Languages:** Python, SQL, Java
-- **Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, NLP
-- **Data Science Tools:** Pandas, NumPy, Data Structures, Algorithms, Statistics, Data Mining
-- **Data Visualization:** Power BI, Tableau, Jupyter Notebook
-- **Cloud & DevOps:** Microsoft Azure, CI/CD, Cloud Computing, MLOps, Agile
-- **Other Skills:** Flask, API Development, GitHub, Deep Learning, Data Visualization
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi)
 
-## 🏆 Certifications
+## 🏆 Achievements and Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Infosys Certified Database and SQL Professional
-- Power BI Data Analyst Associate (PL-300)
-- Core Java Certified (Grade A - Mind Scripts Tech)
-- Data Analytics and Visualization Job Simulation (Accenture)
+- **Microsoft Certified:** Azure Fundamentals (AZ-900)
+- **Infosys Certified:** Database and SQL Professional
+- **Power BI Data Analyst Associate:** PL-300
+- **Core Java Certified:** Mind Scripts Tech (Grade A)
+- **Data Analytics and Visualization Job Simulation** by Accenture
 
-## 💼 Professional Experience
+## 📈 GitHub Stats
 
-### **System Engineer at Infosys Ltd**  
-**Client: Microsoft CRM 365** (Nov 2021 to July 2023)  
-- Spearheaded a data-driven initiative to reduce client-raised tickets by 20% in Dynamics 365.
-- Achieved a 70% reduction in CRM downtime through in-depth data analysis using SQL and Azure Cosmos DB.
-- Developed Power BI dashboards to visualize performance metrics, reducing issue resolution time by 15%.
+![Sumedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumedhwani&show_icons=true&theme=radical)
 
-### **Data Analyst Intern at Romax Technologies Ltd**  
-**Client: Punjab National Bank** (Mar 2021 to Nov 2021)  
-- Optimized SQL queries to reduce data retrieval time by 15%.
-- Led the development of financial dashboards in Power BI, improving operational efficiency by 30%.
+![Sumedh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumedhwani&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)
 
-## 🎓 Education
+## 🎓 Projects
 
-- **MSc in Data Science and AI** – University of Liverpool (2023 to 2024)
-- **B. Tech in Mechanical Engineering** – Pune University (2017 to 2021)
+[![Project Workflow](https://yourgifurl.com/project-demo.gif)](https://github.com/sumedhwani/Kidney-Disease-Classification)
 
-## 📈 Projects
+[**Kidney Disease Classification**](https://github.com/sumedhwani/Kidney-Disease-Classification)  
+Developed an end-to-end deep learning model for kidney disease classification using Keras, MLflow, and DVC.  
+_Technologies:_ Python, Keras, MLflow, DVC, Azure
 
-- **[Kidney Disease Classification](https://github.com/Sumedh/Kidney-Disease-Classification)**  
-  Developed an end-to-end deep learning model for kidney disease classification using Keras, MLflow, and DVC.  
-  _Technologies:_ Python, Keras, MLflow, DVC, Azure
+[**Football Bias Analysis**](https://github.com/sumedhwani/FootballBiasAnalysis)  
+Analyzed and predicted referee bias in football matches using deep learning models.  
+_Technologies:_ Python, TensorFlow, Pandas, Keras, NLP
 
-- **[Football Bias Analysis](https://github.com/Sumedh/FootballBiasAnalysis)**  
-  Implemented deep learning models to analyze referee bias in football using NLP and image analysis.  
-  _Technologies:_ Python, TensorFlow, Pandas, Keras
-
-- **[Sales Performance Dashboard](https://github.com/Sumedh/SalesPerformanceSegmentation)**  
-  Created a sales performance and customer segmentation dashboard using Power BI, SQL, and Python.  
-  _Technologies:_ Power BI, Python, Pandas, SQL
+[**Sales Performance Dashboard**](https://github.com/sumedhwani/SalesPerformanceSegmentation)  
+Created a sales performance and customer segmentation dashboard using Power BI, Python, and SQL.  
+_Technologies:_ Power BI, Python, Pandas, SQL
 
 ## 📫 Let's Connect!
 
 - **Email:** wanisumedh833@gmail.com
 - **LinkedIn:** [Sumedh Wani](https://www.linkedin.com/in/sumedh-wani/)
-- **GitHub:** [Sumedh's GitHub](https://github.com/Sumedh)
+- **GitHub:** [Sumedh's GitHub](https://github.com/sumedhwani)
