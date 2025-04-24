@@ -1,4 +1,4 @@
-# Hi, I'm Sumedh Wani! 👋
+# Hi, Welcome to my Github! 👋
 
 ![Profile Banner](https://github.com/sumedhwani/sumedhwani/blob/1cba0bace7a0c69f9c885bb7a0c4d5c128aa8c97/DALL%C2%B7E%202024-10-18%2013.56.09%20-%20A%20professional%20banner%20for%20a%20GitHub%20profile%20themed%20around%20data%20analytics%20and%20artificial%20intelligence.%20The%20banner%20should%20have%20a%20sleek%20and%20modern%20design%20.webp)
 
