@@ -43,8 +43,3 @@ _Technologies:_ Python, TensorFlow, Pandas, Keras, NLP
 Created a sales performance and customer segmentation dashboard using Power BI, Python, and SQL.  
 _Technologies:_ Power BI, Python, Pandas, SQL
 
-## 📫 Let's Connect!
-
-- **Email:** wanisumedh833@gmail.com
-- **LinkedIn:** [Sumedh Wani](https://www.linkedin.com/in/sumedh-wani/)
-- **GitHub:** [Sumedh's GitHub](https://github.com/sumedhwani)
